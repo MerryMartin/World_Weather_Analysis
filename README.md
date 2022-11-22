@@ -9,6 +9,12 @@
 
 
 
-* Lastly, I created a travel itinerary map with the Google Directions API.  This map displayed the route between the cities and pop-up markers with hotel name, city, country, and weather descriptions.   
-* 
+* Lastly, I created travel itinerary maps with the Google Directions API.  These maps displayed the route between the cities and pop-up markers with hotel name, city, country, and weather descriptions.   
+
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/115426070/203433684-09766539-6fde-4c4c-b23f-3fd18a3e273d.png)
+
+
+
+
+
 ![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/115426070/203433570-d5de2be9-6cf8-4229-b961-25ee82b5ae84.png)
